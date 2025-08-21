@@ -23,7 +23,7 @@ def soan_de(a, b):
     return de
 
 
-de = open("E:/BenFolder/Works/MathHP/soan_de_tuong_tu/tap_luyen/cau_hoi.tex", "w", encoding="utf8")
+de = open("./cau_hoi.tex", "w", encoding="utf8")
 
 num = input("Ban muon tao bao nhieu cau hoi?: ")
 
